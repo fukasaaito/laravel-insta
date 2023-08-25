@@ -68,7 +68,7 @@
                 <div class="col-auto">
                     <form action="{{ route('follow.store', $user->id)}}" method="post">
                         @csrf
-                        <button type="submit" class="border-0 bg-transparent p-0 text-primary btn-sm">Follow</button>
+                        <button type="submit" class="border-0 btn btn-danger p-0 text-white btn-sm">Follow</button>
                     </form>
                 </div>
             </div>

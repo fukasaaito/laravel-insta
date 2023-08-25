@@ -47,3 +47,11 @@
     height: 3.5rem;
     object-fit: cover;
 }
+
+.navbar {
+    background-color: #DB7093;
+}
+
+body {
+    background-color: #FFF0F5;
+}
